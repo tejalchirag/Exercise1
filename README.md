@@ -1,2 +1,2 @@
 # Exercise1
-#new informatons
+#new informations
